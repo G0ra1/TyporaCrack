@@ -10,4 +10,4 @@
 
 #### 此项目为Github [Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple)
 
-![Typora_01](./img/Typora_01.png)
+<img src="./img/Typora_01.png" style="width: calc(95%); border:1px solid black;" alt="Typora主题效果演示">
